@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doraliyuan
 - 👀 I’m interested in Python, Matlab,Shell scripts, and NCL
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: yuanrung0103@gmail.com
 
